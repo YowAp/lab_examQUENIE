@@ -1,0 +1,61 @@
+
+ 
+        body {
+            margin: 20%;
+            background-color: WHITE;
+        }
+ 
+        #title {
+            text-align: center;
+            text-shadow: 5px 5px 10px white;
+            font-size: 7vh;
+        }
+ 
+        img {
+            display: inline-block;
+            width: 100%;
+        }
+ 
+    
+        #caption {
+            font-size: 17px;
+            font-family: Gill Sans;
+            color: black;
+            align-items: center;
+        }
+ 
+        div#tribute {
+            background-color: cyan;
+            box-shadow: 20px 20px 20px white;
+            font-family: Georgia;
+            padding: 25px 25px;
+            margin: 11px;
+            margin-top: 50px;
+        }
+ 
+
+        h1.title {
+            font-size: 35px;
+            color: white;
+            text-align: center;
+            text-shadow: 5px 5px 10px black;
+        }
+ 
+        #tribute {
+            text-decoration: none;
+            color: black;
+        }
+        .survey{
+            background-color: pink;
+
+        }
+        input[type="text"],
+        input[type="email"],
+        input[type="number"],
+        textarea{
+            width: 86%;
+            padding:10px;
+            margin-bottom:10px;
+            border: 1px solid white;
+            border-radius: 5px;
+        }
